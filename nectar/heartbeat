@@ -1,0 +1,7 @@
+#!/bin/bash
+source ./nectar.sh
+
+cat ./heartbeat.json > .fifo
+nectar-gen-ab 3 4 >> ./fifo
+
+cat ./fifo | jq -s .

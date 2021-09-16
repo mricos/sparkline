@@ -1,0 +1,5 @@
+#!/bin/bash
+#cat data/hello.json
+git pull
+cd ..
+yarn dev &
