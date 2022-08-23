@@ -1,0 +1,15 @@
+.root {
+  object-fit: cover;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+.root > picture > img {
+  object-fit: cover;
+}
+.root > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.root_50Opaque {
+  opacity: 0.5;
+}

@@ -1,0 +1,198 @@
+.root {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  background: var(--token-FLk5QZ0quVTU);
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  margin-left: calc(0px - 48px);
+  width: calc(100% + 48px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 48px;
+}
+.freeBox {
+  display: flex;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox {
+    display: flex;
+    flex-direction: column;
+    flex-column-gap: 0px;
+  }
+}
+.art {
+  display: flex;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .art {
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 2;
+    min-height: 320px;
+    flex-column-gap: 0px;
+  }
+}
+.img__rlCvb {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.img__rlCvb > picture > img {
+  object-fit: cover;
+}
+.img__rlCvb > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.freeBox__e4DUb {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  mix-blend-mode: multiply;
+  background: var(--token-eb6H2hfctm6F);
+}
+.copy {
+  flex-direction: column;
+  display: flex;
+  width: 100%;
+  background: var(--token-EWRzyK4b9zAu);
+  min-width: 0;
+  padding: 64px;
+}
+.copy > :global(.__wab_flex-container) {
+  flex-direction: column;
+  min-width: 0;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.copy > :global(.__wab_flex-container) > *,
+.copy > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.copy > :global(.__wab_flex-container) > picture > img,
+.copy > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 32px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .copy {
+    padding: 128px 32px;
+  }
+}
+.freeBox__zHx34 {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+}
+.freeBox__zHx34 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.freeBox__zHx34 > :global(.__wab_flex-container) > *,
+.freeBox__zHx34 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__zHx34 > :global(.__wab_flex-container) > picture > img,
+.freeBox__zHx34
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+.text__iQlZ6 {
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  height: auto;
+  color: var(--token-J2182N9Lj4Jf);
+}
+.text__n4T3 {
+  font-size: 48px;
+  font-weight: 800;
+  color: var(--token-J2182N9Lj4Jf);
+  line-height: 1;
+}
+.text__ga6I4 {
+  font-size: 20px;
+  color: var(--token-RQjEhs4-Rk7J);
+  line-height: 28px;
+}
+.freeBox__qkcLl {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+}
+.freeBox__qkcLl > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: calc(0px - 16px);
+  width: calc(100% + 16px);
+}
+.freeBox__qkcLl > :global(.__wab_flex-container) > *,
+.freeBox__qkcLl > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__qkcLl > :global(.__wab_flex-container) > picture > img,
+.freeBox__qkcLl
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 16px;
+}
+.button__eYdS:global(.__wab_instance) {
+  position: relative;
+}
+.svg__djh5Q {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+  color: var(--token-zgBdZ9r5IIDJ);
+}
+.svg__zdLHl {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+  color: var(--token-zgBdZ9r5IIDJ);
+}
+.button__eKsH:global(.__wab_instance) {
+  position: relative;
+}
+.svg___4SqXl {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+  color: var(--token-zgBdZ9r5IIDJ);
+}
+.text__kv96 {
+  height: auto;
+  font-weight: 400;
+}
+.svg___6Y8Ap {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+  color: var(--token-zgBdZ9r5IIDJ);
+}

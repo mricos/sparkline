@@ -1,0 +1,279 @@
+{
+  "projects": [
+    {
+      "projectId": "sa9cdtG5u1tnrsRL4NJAW9",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "hYdh4LpA7GZz",
+          "checksum": "73c55379a1dc61713cac3f9c62b958d4"
+        },
+        {
+          "assetId": "sa9cdtG5u1tnrsRL4NJAW9",
+          "type": "projectCss",
+          "checksum": "a0ccb5b73573221fa027a014d4130910"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "BL6WUVff-Wcc",
+          "checksum": "4b52dd3ca73479f5d3bc310d29a2876b"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "BL6WUVff-Wcc",
+          "checksum": "4b52dd3ca73479f5d3bc310d29a2876b"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "wvexXQxiFndV",
+          "checksum": "ea0f91834cd676e26a9a180997820be9"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "wvexXQxiFndV",
+          "checksum": "ea0f91834cd676e26a9a180997820be9"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "nO22joOvq4dJ",
+          "checksum": "fa3bd607bada2c40b39b7c1fb5db7b0d"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "nO22joOvq4dJ",
+          "checksum": "fa3bd607bada2c40b39b7c1fb5db7b0d"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "B5s9WNiR2fr6",
+          "checksum": "2b5f8e787063ea3c532d1ac0ff4c2051"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "B5s9WNiR2fr6",
+          "checksum": "2b5f8e787063ea3c532d1ac0ff4c2051"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "ubZ4DzFcB6XW",
+          "checksum": "f6e155bbff2ed865e87c830a0882acc6"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "ubZ4DzFcB6XW",
+          "checksum": "f6e155bbff2ed865e87c830a0882acc6"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "0tFV9O7Pw9U3",
+          "checksum": "ab3a31842e2c3b0686380aac231bea34"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "0tFV9O7Pw9U3",
+          "checksum": "ab3a31842e2c3b0686380aac231bea34"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "fMptJHRjsEan",
+          "checksum": "e72043e4b7d1eabdfcb827ed42900963"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "fMptJHRjsEan",
+          "checksum": "e72043e4b7d1eabdfcb827ed42900963"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "8N9V0C3YR6A_",
+          "checksum": "2769f33f19f9e69cd9c13631598c01e2"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "8N9V0C3YR6A_",
+          "checksum": "2769f33f19f9e69cd9c13631598c01e2"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "TeGYHKYxFO1a",
+          "checksum": "102ef66835801dc22eaa2f9c2e943d3b"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "TeGYHKYxFO1a",
+          "checksum": "102ef66835801dc22eaa2f9c2e943d3b"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "OliTbamJX4w1",
+          "checksum": "36fd5e7a3ecab369b3805df4708976c6"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "OliTbamJX4w1",
+          "checksum": "36fd5e7a3ecab369b3805df4708976c6"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Y6I84hNxrS72",
+          "checksum": "14d26cce2b68197aeab57b7838cb9505"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Y6I84hNxrS72",
+          "checksum": "14d26cce2b68197aeab57b7838cb9505"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "ka15LM9W-d3r",
+          "checksum": "10456aa411dc47f734abb8bfd4a889fe"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "ka15LM9W-d3r",
+          "checksum": "10456aa411dc47f734abb8bfd4a889fe"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "2y-US2LMer-z",
+          "checksum": "02f84bfbc33f157b9dd51435d4ca710e"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "2y-US2LMer-z",
+          "checksum": "02f84bfbc33f157b9dd51435d4ca710e"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "pFcIZVJFywgO",
+          "checksum": "542dbd20065d3e08ce9ef556e6945c05"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "pFcIZVJFywgO",
+          "checksum": "542dbd20065d3e08ce9ef556e6945c05"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "qA5G_6re19j-",
+          "checksum": "be390d2dffe40d02c4eadb44d05591dd"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "qA5G_6re19j-",
+          "checksum": "be390d2dffe40d02c4eadb44d05591dd"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "rjdV6bmTkzIk",
+          "checksum": "dbc3e74e3fcfb18792c1075cc37f4faf"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "rjdV6bmTkzIk",
+          "checksum": "dbc3e74e3fcfb18792c1075cc37f4faf"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "KmyQoT_FMet_",
+          "checksum": "63dc56334d19645cea4a7c5f75d195f2"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "KmyQoT_FMet_",
+          "checksum": "63dc56334d19645cea4a7c5f75d195f2"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "yXGncPhlYk28",
+          "checksum": "bb111ac43a84d987855e8eabfc4ab059"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "yXGncPhlYk28",
+          "checksum": "bb111ac43a84d987855e8eabfc4ab059"
+        },
+        {
+          "type": "icon",
+          "assetId": "R_QItIJ5-MOY",
+          "checksum": "29c42a81b788b3ab49dbcf58ee03e60c"
+        },
+        {
+          "type": "icon",
+          "assetId": "PTBt4NOy45LF",
+          "checksum": "ab8fe739856e18d9772e6557e7c45f7c"
+        },
+        {
+          "type": "icon",
+          "assetId": "BB0QKi3OB_CZ",
+          "checksum": "3a908aefd1a3d973efd1dd2574da2640"
+        },
+        {
+          "type": "icon",
+          "assetId": "5gOxBMRvRafZ",
+          "checksum": "316f174292befbf2d476b70847bfbcf8"
+        },
+        {
+          "type": "icon",
+          "assetId": "efqmcRgztf6O",
+          "checksum": "f618c69b4039b290466fdda54a2aa8ac"
+        },
+        {
+          "type": "icon",
+          "assetId": "C_BcOzDDdFtc",
+          "checksum": "c3f1e6691d96075daff5f9e093c5a9aa"
+        },
+        {
+          "type": "icon",
+          "assetId": "0YDKk3_SERyf",
+          "checksum": "22b2ae762d606b028176e0d349202150"
+        },
+        {
+          "type": "icon",
+          "assetId": "KhDwTzDoj2bY",
+          "checksum": "961c46d53e3e8b72f5aad8e9c60f55cb"
+        },
+        {
+          "type": "icon",
+          "assetId": "P2flqDX6hHZv",
+          "checksum": "f10e1a0b7cc09f3635a8dec9efeb262c"
+        },
+        {
+          "type": "image",
+          "assetId": "Gb3DABG-eC62",
+          "checksum": "6e86a528babdcd45bb6c045329fb5288"
+        },
+        {
+          "type": "image",
+          "assetId": "yiLFNsGrmw7L",
+          "checksum": "5364f24f103b125dbb84cff9422bbc93"
+        },
+        {
+          "type": "image",
+          "assetId": "63YBk9ohq_yN",
+          "checksum": "5d6490fb3d050388ddbba4e0bb7d4783"
+        },
+        {
+          "type": "image",
+          "assetId": "kfufSNZ-AGZM",
+          "checksum": "764ace5a6867a053184363b28902fffb"
+        },
+        {
+          "type": "image",
+          "assetId": "CaY4U-g0wxES",
+          "checksum": "48223f8bcc3c32f655c9b4fff8ce9db0"
+        },
+        {
+          "type": "image",
+          "assetId": "rDkH4Xs0rNyj",
+          "checksum": "4a98a5151eeab667bc617942e2b4d542"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.186"
+}

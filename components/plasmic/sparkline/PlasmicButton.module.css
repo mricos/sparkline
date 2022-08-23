@@ -1,0 +1,216 @@
+.root {
+  flex-direction: row;
+  display: flex;
+  cursor: pointer;
+  position: relative;
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease-out;
+  -webkit-transition-duration: 0.5s;
+  border-radius: 6px;
+  padding: 10px 16px;
+  border: 1px solid transparent;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+  margin-top: calc(0px - 0px);
+  height: calc(100% + 0px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 8px;
+  margin-top: 0px;
+}
+.rootstartIcon {
+  display: flex;
+}
+.rootcolors_green {
+  background: #34c759;
+}
+.rootcolors_indigo {
+  cursor: pointer;
+  flex-direction: row;
+  background: #5856d6;
+  border-radius: 6px;
+  padding: 10px 16px;
+  border: 1px solid transparent;
+}
+.rootcolors_indigo > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+  margin-top: calc(0px - 0px);
+  height: calc(100% + 0px);
+}
+.rootcolors_indigo > :global(.__wab_flex-container) > *,
+.rootcolors_indigo > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.rootcolors_indigo > :global(.__wab_flex-container) > picture > img,
+.rootcolors_indigo
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+  margin-top: 0px;
+}
+.rootcolors_blue {
+  background: var(--token-eb6H2hfctm6F);
+}
+.rootcolors_red {
+  background: var(--token-p3r4QvmhrShd);
+}
+.rootcolors_white {
+  background: var(--token-FLk5QZ0quVTU);
+}
+.rootround {
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 24px;
+}
+.rootflat {
+  padding: 0px;
+}
+.rootnoGap > :global(.__wab_flex-container) {
+  margin-left: calc(0px - 0px);
+  width: calc(100% + 0px);
+  margin-top: calc(0px - 0px);
+  height: calc(100% + 0px);
+}
+.rootnoGap > :global(.__wab_flex-container) > *,
+.rootnoGap > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.rootnoGap > :global(.__wab_flex-container) > picture > img,
+.rootnoGap
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.rootextraSmallShadow {
+  box-shadow: 0px 1px 1px 1px #0000001a;
+}
+.rootnoLabel {
+  padding-top: 11px;
+  padding-bottom: 11px;
+}
+.rootouline {
+  border: 1px solid var(--token-HvXFdZ4-7W3y);
+}
+.rootdarkGray {
+  background: var(--token-ZOD7WB2MfmLM);
+}
+.rootbgDifference {
+  mix-blend-mode: difference;
+}
+.root:hover {
+  background: var(--token-h6RXN8FmsAdZ);
+}
+.rootcolors_indigo:hover {
+  background: #5e5ce6;
+}
+.rootlinkLabel:hover {
+  background: none;
+}
+.rootdarkGray:hover {
+  background: var(--token-zgBdZ9r5IIDJ);
+}
+.root:focus {
+  box-shadow: 0px 0px 0px 4px #0095ff80;
+  outline: none;
+}
+.svg___1NY0V {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+  color: var(--token-zgBdZ9r5IIDJ);
+  flex-shrink: 0;
+}
+.slotTargetSlot {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 26px;
+}
+.slotTargetSlotcolors_green {
+  color: var(--token-FLk5QZ0quVTU);
+}
+.slotTargetSlotcolors_indigo {
+  color: var(--token-FLk5QZ0quVTU);
+}
+.slotTargetSlotcolors_blue {
+  color: var(--token-FLk5QZ0quVTU);
+}
+.slotTargetSlotcolors_red {
+  color: var(--token-FLk5QZ0quVTU);
+}
+.slotTargetSlotlarge {
+  font-size: 24px;
+  line-height: 1.5em;
+}
+.slotTargetSlotlinkLabel {
+  font-weight: 400;
+  color: #007aff;
+}
+.slotTargetSlotnavLink {
+  font-weight: 400;
+  color: var(--token-zgBdZ9r5IIDJ);
+}
+.slotTargetSlotdarkGray {
+  color: var(--token-J2182N9Lj4Jf);
+}
+.slotTargetSlotdark {
+  color: var(--token-J2182N9Lj4Jf);
+}
+.rootnavLink:hover .slotTargetSlotnavLink {
+  color: var(--token-ZOD7WB2MfmLM);
+}
+.rootnavLink:hover .slotTargetSlotnavLink > .__wab_text,
+.rootnavLink:hover .slotTargetSlotnavLink > .__wab_slot-string-wrapper,
+.rootnavLink:hover .slotTargetSlotnavLink > .__wab_slot > .__wab_text,
+.rootnavLink:hover
+  .slotTargetSlotnavLink
+  > .__wab_slot
+  > .__wab_slot-string-wrapper,
+.rootnavLink:hover
+  .slotTargetSlotnavLink
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_text,
+.rootnavLink:hover
+  .slotTargetSlotnavLink
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper,
+.rootnavLink:hover
+  .slotTargetSlotnavLink
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_text,
+.rootnavLink:hover
+  .slotTargetSlotnavLink
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot
+  > .__wab_slot-string-wrapper {
+  text-decoration-line: underline;
+}
+.svg___5MqxN {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+  color: var(--token-zgBdZ9r5IIDJ);
+  flex-shrink: 0;
+}
